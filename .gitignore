@@ -1,0 +1,6 @@
+
+/client/package-lock.json
+
+# Server
+*.env
+node_modules
